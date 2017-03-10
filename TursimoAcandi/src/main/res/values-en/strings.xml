@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Acandí Turism</string>
+    <string name="titulo">Acandí Turism</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="initses">Login</string>
+    <string name="register">Register</string>
+    <string name="rpassword">Retype password</string>
+    <string name="cancel">Cancel</string>
+    <string name="email">E-Mail</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="menuprofile">My Profile</string>
+    <string name="Signout">Sign Out</string>
+    <string name="twpass">Wrong password</string>
+    <string name="twuser">The user doesn\'t exist</string>
+    <string name="treg">Successfully registered</string>
+    <string name="tpassm">Passwords don\'t match</string>
+    <string name="tempty">Please fill in all the blanks</string>
+    <string name="acinfo">Acandí is a municipality from Colombia located in the north of the department of Chocó, in the northwersten Colombia, on the shores of the Caribbean Sea. It limits with Panama and has many beautiful sides like Capurgana.</string>
+    <string name="acinfo2">Acandí is rich in biodiversity in fauna and flora, that is because this lands are between the Darien\'s forests. It has various exotics species. The economy is mainly based on turism, agriculture, cattle and artesanal fishing.</string>
+    <string name="acinfo3">What are you waiting to visit Acandí? Come here and enjoy the beautiful coasts and the most delicious food and also enjoy the beautiful biodiversity here, you will want to come here again, you will not regret.</string>
+</resources>

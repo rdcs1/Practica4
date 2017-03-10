@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turismo Acandí</string>
+    <string name="titulo">Turismo Acandí</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="initses">Ingresar</string>
+    <string name="register">Registrar</string>
+    <string name="rpassword">Repetir contraseña</string>
+    <string name="cancel">Cancelar</string>
+    <string name="email">Correo</string>
+    <string name="title_activity_profile">Mi perfil</string>
+    <string name="menuprofile">Mi Perfil</string>
+    <string name="Signout">Salir</string>
+    <string name="twpass">Contraseña incorrecta</string>
+    <string name="twuser">El usuario no existe</string>
+    <string name="treg">Registrado satisfactoriamente</string>
+    <string name="tpassm">Las contraseñas no coinciden</string>
+    <string name="tempty">Por favor, llene los espacios en blanco</string>
+    <string name="acinfo">Acandí es un municipio de Colombia ubicado en el extremo norte de Chocó, en el noroeste de Colobia, a las orillas del Mar Caribe. Limita con Panamá y posee muchos lugares hermosos como Capurganá.</string>
+    <string name="acinfo2">Acandí es rico en biodiversidad de fauna y flora, esto se debe a que se encuentra ubicado dentro del Bosque del Darién quien posee variedades de especies exóticas. La economía se basa en el turismo, agricultura, ganadería y pesca artesanal.</string>
+    <string name="acinfo3">¿Qué esperas para visitar Acandí? Ven y disfruta las playas más hermosas y las comidas más deliciosas, también puedes disfrutar de la hermosa biodiversidad, quedarás con ganas de volver, no te arrepentirás.</string>
+</resources>
