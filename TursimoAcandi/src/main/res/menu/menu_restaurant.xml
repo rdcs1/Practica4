@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.david.practica2.RestaurantActivity">
+    <item android:id="@+id/main"
+        android:title="@string/main" />
+    <item android:id="@+id/mProfile"
+        android:title="@string/menuprofile" />
+    <item android:id="@+id/mHotel"
+        android:title="@string/sHotel"/>
+    <item android:id="@+id/mTuris"
+        android:title="@string/sTuris"/>
+    <item android:id="@+id/mSignout"
+        android:title="@string/Signout" />
+</menu>
