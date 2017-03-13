@@ -13,9 +13,9 @@
 	<item name="maroon" type="color">#800000</item>
 	<item name="darkred" type="color">#8b0000</item>
 	<item name="purple" type="color">#800080</item>
-	<item name="darkgreen" type="color">#8b008b</item>
+	<item name="darkviolet" type="color">#8b008b</item>
 	<item name="darkmagenta" type="color">#9400d3</item>
-	<item name="darkviolet" type="color">#006400</item>
+	<item name="darkgreen" type="color">#006400</item>
 	<item name="darkslategray" type="color">#2f4f4f</item>
 	<item name="darkslateblue" type="color">#483d8b</item>
 	<item name="green" type="color">#008000</item>

@@ -32,13 +32,37 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("ok","RESULT_OK");
                 startActivity(intent);
                 break;
-            case R.id.mSignout:
-                Intent intent2 = new Intent(MainActivity.this,LoginActivity.class);
+            case R.id.mHotel:
+                Intent intent2 = new Intent(MainActivity.this,HotelActivity.class);
                 intent2.putExtra("user", getIntent().getStringExtra("user"));
                 intent2.putExtra("pass", getIntent().getStringExtra("pass"));
                 intent2.putExtra("email", getIntent().getStringExtra("email"));
                 intent2.putExtra("ok","RESULT_OK");
                 startActivity(intent2);
+                break;
+            case R.id.mRest:
+                Intent intent3 = new Intent(MainActivity.this,RestaurantActivity.class);
+                intent3.putExtra("user", getIntent().getStringExtra("user"));
+                intent3.putExtra("pass", getIntent().getStringExtra("pass"));
+                intent3.putExtra("email", getIntent().getStringExtra("email"));
+                intent3.putExtra("ok","RESULT_OK");
+                startActivity(intent3);
+                break;
+            case R.id.mTuris:
+                Intent intent4 = new Intent(MainActivity.this,TuristicActivity.class);
+                intent4.putExtra("user", getIntent().getStringExtra("user"));
+                intent4.putExtra("pass", getIntent().getStringExtra("pass"));
+                intent4.putExtra("email", getIntent().getStringExtra("email"));
+                intent4.putExtra("ok","RESULT_OK");
+                startActivity(intent4);
+                break;
+            case R.id.mSignout:
+                Intent intent5 = new Intent(MainActivity.this,LoginActivity.class);
+                intent5.putExtra("user", getIntent().getStringExtra("user"));
+                intent5.putExtra("pass", getIntent().getStringExtra("pass"));
+                intent5.putExtra("email", getIntent().getStringExtra("email"));
+                intent5.putExtra("ok","RESULT_OK");
+                startActivity(intent5);
                 break;
         }
         return true;

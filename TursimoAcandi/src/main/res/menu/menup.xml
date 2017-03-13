@@ -2,6 +2,12 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/main"
         android:title="@string/main" />
+    <item android:id="@+id/mHotel"
+        android:title="@string/sHotel"/>
+    <item android:id="@+id/mRest"
+        android:title="@string/sRest"/>
+    <item android:id="@+id/mTuris"
+        android:title="@string/sTuris"/>
     <item android:id="@+id/mSignout"
         android:title="@string/Signout" />
 
