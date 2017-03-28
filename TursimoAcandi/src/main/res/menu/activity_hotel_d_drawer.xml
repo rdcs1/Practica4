@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/main"
+            android:icon="@drawable/main"
+            android:title="@string/main" />
+        <item
+            android:id="@+id/mHotel"
+            android:icon="@drawable/hotels"
+            android:title="@string/sHotel" />
+        <item
+            android:id="@+id/mHotel2"
+            android:icon="@drawable/hotels"
+            android:title="@string/sHotel2" />
+        <item
+            android:id="@+id/mRest"
+            android:icon="@drawable/restaurants"
+            android:title="@string/sRest" />
+        <item
+            android:id="@+id/mTuris"
+            android:icon="@drawable/tours"
+            android:title="@string/sTuris" />
+    </group>
+
+    <item android:title="@string/options">
+        <menu>
+            <item
+                android:id="@+id/mSignout"
+                android:icon="@drawable/out"
+                android:title="@string/Signout" />
+        </menu>
+    </item>
+
+</menu>

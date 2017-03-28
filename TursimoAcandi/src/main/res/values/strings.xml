@@ -26,6 +26,7 @@
     <string name="title_activity_restaurant">Restaurants</string>
     <string name="title_activity_turistic">Tourist sites</string>
     <string name="sHotel">Hotels</string>
+    <string name="sHotel2">More Hotels</string>
     <string name="sRest">Restaurants</string>
     <string name="Signout">Sign out</string>
     <string name="sTuris">Tourist Sites</string>
@@ -57,4 +58,26 @@
     <string name="titour2">Batatilla Waterfall</string>
     <string name="titour3">Darien Forest</string>
     <string name="empty" />
+    <string name="title_activity_hotel_d">HotelDActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="options">Options</string>
+    <string name="title_activity_main_d">MainDActivity</string>
+    <string name="title_activity_restaurant_d">RestaurantDActivity</string>
+    <string name="lhotel1">The Bohemian</string>
+    <string name="lhotel2">The Mornings</string>
+    <string name="lhotel3">Kachikine</string>
+    <string name="lhotel4">Acuali Eco hostel</string>
+    <string name="lprice1">Price: $80.000</string>
+    <string name="lprice2">Price: $306.000</string>
+    <string name="lprice3">Price: $60.000</string>
+    <string name="lprice4">Price: $150.000</string>
+    <string name="lscore1">Good 7.7</string>
+    <string name="lscore2">Very Good 8.1</string>
+    <string name="lscore3">Fantastic 9.0</string>
+    <string name="lscore4">Fabulous 8.7</string>
+    <string name="linfo1">The Bohemian offers accommodation in Capurganá. Besides, there\'s free private parking. Some rooms have mountain or garden views. The establishment has a 24-hour reception. In the surroundings you can practice various activities, such as fishing, snorkeling and hiking. We speak your language!</string>
+    <string name="linfo2">Hotel The Mornings has a diving school, a souvenir shop and a beach volleyball court. The friendly staff can arrange excursions in the surrounding area at an additional cost. The hotel\'s restaurant serves international cuisine and the bar serves snacks. It is only possible to access the Hotel The Mornings by plane or boat. We speak your language!</string>
+    <string name="linfo3">The Kachikine is located in Capurganá, has a sun terrace and sea views. In the area you can practice various activities, such as snorkeling and hiking. This accommodation also has very good score for the best value-price relation in Capurganá. Customers get more out of their money compared to other accommodations in the same city.</string>
+    <string name="linfo4">The Acuali Ecohostal has a restaurant and spa and is located in Capurganá on the beautiful Caribbean coast. This secluded hostel organizes outdoor activities. Rooms feature rustic wood décor and spectacular views of the rainforest. They also include a private bathroom with shower and toilet. The shared room has a shared bathroom.</string>
 </resources>

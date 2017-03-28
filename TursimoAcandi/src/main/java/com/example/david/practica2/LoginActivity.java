@@ -46,7 +46,7 @@ public class LoginActivity extends AppCompatActivity {
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(LoginActivity.this,MainActivity.class);
+                Intent intent = new Intent(LoginActivity.this,MainDActivity.class);
                 if (user.getText().toString().equals(getIntent().getStringExtra("user"))){
                     if(pass.getText().toString().equals(getIntent().getStringExtra("pass"))){
                         intent.putExtra("user", us);

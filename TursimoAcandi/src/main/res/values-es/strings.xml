@@ -27,6 +27,7 @@
     <string name="title_activity_restaurant">Restaurantes</string>
     <string name="title_activity_turistic">Sitios turísticos</string>
     <string name="sHotel">Hoteles</string>
+    <string name="sHotel2">Más Hoteles</string>
     <string name="sRest">Restaurantes</string>
     <string name="sTuris">Sitios turísticos</string>
     <string name="hotel2">Hotel 2</string>
@@ -57,4 +58,26 @@
     <string name="titour2">Cascada Batatilla</string>
     <string name="titour3">Bosque del Darién</string>
     <string name="empty" />
+    <string name="title_activity_hotel_d">HotelDActivity</string>
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Cerrar navigation drawer</string>
+    <string name="options">Opciones</string>
+    <string name="title_activity_main_d">MainDActivity</string>
+    <string name="title_activity_restaurant_d">RestaurantDActivity</string>
+    <string name="lhotel1">La Bohemia</string>
+    <string name="lhotel2">Las mañanitas</string>
+    <string name="lhotel3">Kachikine</string>
+    <string name="lhotel4">Acuali Ecohostal</string>
+    <string name="lprice1">Precio: $80.000</string>
+    <string name="lprice2">Precio: $306.000</string>
+    <string name="lprice3">Precio: $60.000</string>
+    <string name="lprice4">Precio: $150.000</string>
+    <string name="lscore1">Bueno 7.7</string>
+    <string name="lscore2">Muy Bueno 8.1</string>
+    <string name="lscore3">Fantástico 9.0</string>
+    <string name="lscore4">Fabuloso 8.7</string>
+    <string name="linfo1">La Bohemia ofrece alojamiento en Capurganá. Además, hay aparcamiento privado gratuito. Algunas habitaciones tienen vistas a la montaña o al jardín. El establecimiento cuenta con recepción 24 horas. En los alrededores se pueden practicar varias actividades, como pesca, snorkel y senderismo. ¡Hablamos tu idioma!</string>
+    <string name="linfo2">El Hotel Las Mañanitas Capurgana alberga una escuela de buceo, una tienda de recuerdos y una pista de vóley playa. El amable personal del establecimiento puede organizar excursiones en la zona de los alrededores, por un suplemento. El restaurante del hotel prepara platos de cocina internacional y el bar sirve aperitivos. Solo es posible acceder al Hotel Las Mañanitas Capurgana en avión o barco. ¡Hablamos tu idioma!</string>
+    <string name="linfo3">El Kachikine se encuentra en Capurganá, alberga un solárium y goza de vistas al mar. En la zona pueden practicarse diversas actividades, como snorkel y senderismo. Este alojamiento también tiene muy buena puntuación por la mejor relación calidad-precio en Capurganá. Los clientes sacan más partido a su dinero en comparación con otros alojamientos de la misma ciudad.</string>
+    <string name="linfo4">El Acuali Ecohostal cuenta con restaurante y spa de día y se encuentra en Capurganá, en la preciosa costa caribeña. Este albergue retirado organiza actividades al aire libre.Las habitaciones presentan una decoración rústica en madera y ofrecen vistas espectaculares a la selva tropical. También incluyen baño privado con ducha y aseo. La habitación compartida tiene baño compartido.</string>
 </resources>

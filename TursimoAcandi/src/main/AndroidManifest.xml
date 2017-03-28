@@ -8,29 +8,41 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ProfileActivity" />
         <activity
-            android:name=".HotelActivity"
+            android:name=".HotelDActivity"
             android:label="@string/title_activity_hotel"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".RestaurantActivity"
+            android:name=".MainDActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".RestaurantDActivity"
             android:label="@string/title_activity_restaurant"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".TuristicActivity"
+            android:name=".TouristDActivity"
             android:label="@string/title_activity_turistic"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Hotel2Activity"
+            android:label="@string/title_activity_hotel"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+
+
+        <activity android:name=".H2ContentActivity"
+            android:label="@string/title_activity_hotel"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
